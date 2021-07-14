@@ -1,5 +1,5 @@
 # Dev-Rep
-The repository contains databae scripts to create database/table and source codes Node JS application.
+The repository contains databae scripts to create database/table and source codes to run Node JS application.
 
 
 ****Contact Me****
