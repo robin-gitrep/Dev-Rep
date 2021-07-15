@@ -21,7 +21,7 @@ The repository contains databae scripts to create database/table and source code
 </ul>
 
 <ul>
-  <li>[a] <a href="https://github.com/robin-gitrep/DIY-Repos/blob/main/SQL_DB_Scripts.sql" rel="nofollow">Create MongoDB & Collections</a></li>
+  <li>[b] <a href="https://github.com/robin-gitrep/DIY-Repos/blob/main/SQL_DB_Scripts.sql" rel="nofollow">Create MongoDB & Collections</a></li>
 </ul>
 
 
